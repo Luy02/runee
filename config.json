@@ -35,13 +35,13 @@
     "mode": "nicehash",
     "pools": [
         {
-            "algo": Chukwa,
-            "coin": armscoin,
+            "algo": Argon2,
+            "coin": ARMSCOIN,
             "url": "us-central.2acoin.org:3333",
             "user": "gunsE3LGfEJA533Ekmq7cFA6jxmijmYvs9bdwpMYXGQ2HG3DuPc2rFz9bSzQ6qnRibHHpXQ5yBy5UAEZAeCneJRnHFtoWSWSuBYEaQmTq4eew7XMWZgrqE1KcDik8fQU5EhhauijLA9MGCiLH2gxjww4DuQJ2ErN1GMhkct7giSyVPwS4iCQeQemYx",
             "pass": "se7en",
             "rig-id": null,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
